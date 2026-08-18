@@ -25,3 +25,6 @@
 3. Install the required audio library by running:
    ```bash
    pip install pygame
+
+## 📸 Application Preview
+![TuneCast Interface](TuneCast%20Preview.png)
