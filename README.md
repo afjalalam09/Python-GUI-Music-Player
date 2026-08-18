@@ -27,4 +27,4 @@
    pip install pygame
 
 ## 📸 Application Preview
-![TuneCast Interface](TuneCast%20Preview.png)
+![TuneCast Interface](TuneCast_preview.png)
